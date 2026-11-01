@@ -1,0 +1,12 @@
+{
+  "name": "node-multistage-demo",
+  "version": "1.0.0",
+  "description": "Learning Docker multi-stage builds",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
